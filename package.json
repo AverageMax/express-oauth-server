@@ -27,7 +27,7 @@
     "oauth2-server": "3.0.0"
   },
   "devDependencies": {
-    "body-parser": "^1.14.1",
+    "body-parser": "^2.2.2",
     "jshint": "^2.8.0",
     "mocha": "^2.3.3",
     "should": "^7.1.0",
